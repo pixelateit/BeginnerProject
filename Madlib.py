@@ -1,6 +1,11 @@
 # String concatination (aka How to put Strings together)
-# Suppose we want to create a string that says "subscribe______"
 
-youtuber = "PrakahrYT" # Fake youtube channel
+adj = input("Adjective: ")
+verb1 = input("Verb: ")
+verb2 = input("Verb: ")
+famous_person = input("Famous Person: ")
 
-print(f"Subscribe to {youtuber}")
+madlib = f"Computer programming is so {adj}! It makes me so excited all the time because \
+I love to {verb1}. Stay hydrated and {verb2} like you are {famous_person}!"
+
+print(madlib)
