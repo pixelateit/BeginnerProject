@@ -9,3 +9,4 @@ This repository contains projects built in python.
   4. Rock, Paper, Scissors -- https://github.com/pixelateit/BeginnerProject/blob/main/rock_paper_scissors.py
   5. Hangman -- https://github.com/pixelateit/BeginnerProject/blob/main/hangman.py
   6. TicTacToe --https://github.com/pixelateit/BeginnerProject/blob/main/game.py
+  7. TicTacToe AI -- https://github.com/pixelateit/BeginnerProject/blob/main/gameai.py
