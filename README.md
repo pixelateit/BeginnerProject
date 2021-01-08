@@ -11,3 +11,4 @@ This repository contains projects built in python.
   6. TicTacToe --https://github.com/pixelateit/BeginnerProject/blob/main/game.py
   7. TicTacToe AI -- https://github.com/pixelateit/BeginnerProject/blob/main/gameai.py
   8. Binary search -- https://github.com/pixelateit/BeginnerProject/blob/main/binarySearch.py
+  9. mineSweeper -- https://github.com/pixelateit/BeginnerProject/blob/main/mineSweeper.py
